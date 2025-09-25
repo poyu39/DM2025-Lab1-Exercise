@@ -15,3 +15,6 @@ Git Intro & How to hand your homework.ipynb
 
 # Ignore CSV files
 *.csv
+
+data/
+__pycache__/
