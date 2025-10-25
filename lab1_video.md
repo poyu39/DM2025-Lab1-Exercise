@@ -1,3 +1,5 @@
+
+# phase 1
 https://www.youtube.com/watch?v=lpPOkVd-olw
 
 1. 6:59
@@ -15,3 +17,6 @@ https://www.youtube.com/watch?v=lpPOkVd-olw
 13.
 14.
 15.
+
+# phase 2
+https://youtu.be/xL9YHhdJ8U4?si=4aIOhJxX1JNZKC-O
